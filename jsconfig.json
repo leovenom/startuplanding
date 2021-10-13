@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  }
+}
+
+// não precisa mais ../../image
+// basta /image
