@@ -20,8 +20,8 @@ export default function CoreFeature() {
     <Container sx={styles.containerBox}>
       <Box sx={styles.contentBox}>
         <TextFeature 
-          subTitle={data.subTitle}
           title={data.title}
+          subTitle={data.subTitle}
           description={data.description}
           btnName={data.btnName}
           btnURL={data.btnURL}
